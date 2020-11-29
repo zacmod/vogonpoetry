@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+  font-family: courier;
+}
+
+p {
+  font-family: courier;
+  font-size: 20px;
+  color: white;
+}
