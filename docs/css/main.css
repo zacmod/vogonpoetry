@@ -27,3 +27,8 @@ ol {
   font-size: 15px;
   color: white;
 }
+
+img {
+  width: 50%;
+  height: auto;
+}
